@@ -1,0 +1,8 @@
+#virtual environments
+env
+worker\worker_env
+
+
+# environmental varaibles
+.env
+worker\.env
